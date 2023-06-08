@@ -8,7 +8,7 @@ function App() {
       <header className="w-full flex justify-between items-center bg-white sm:px-8 px-4 py-4 border-b border-b-[#e6ebf4]">
         <Link to="/">
           <img
-            src="../src/assets/openai-logo.svg"
+            src="https://res.cloudinary.com/dbbnsazda/image/upload/v1686233143/qve9r40lwfz1nx3pdlcn.png"
             alt="logo"
             className="w-10 object-contain"
           />
